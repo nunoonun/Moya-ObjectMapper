@@ -29,7 +29,7 @@
       "source_files": "Source/*.swift",
       "dependencies": {
         "Moya": [
-          "~> 11"
+          "~> 12.0.0-beta.1"
         ],
         "ObjectMapper": [
           "~> 3.3"
